@@ -1,6 +1,5 @@
 ### FORMALIZATION/mathematical-sketch.md
 
-```markdown
 # Mathematical Sketch
 
 > A tentative formal framework for the Impossible Object theory.  
