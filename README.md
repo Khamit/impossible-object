@@ -71,7 +71,8 @@ impossible-object/
 │   ├── 03-understanding-changes-object.md
 │   ├── 04-only-shadow-exists.md
 │   ├── 05-control-is-impossible.md
-│   └── 06-unified-principle-of-limits.md
+│   ├── 06-unified-principle-of-limits.md
+│   └── 07-research-program.md         ← The methodological directive
 ├── FORMALIZATION/
 │   ├── mathematical-sketch.md         ← Tentative formal framework
 │   └── open-problems.md               ← Questions for further work
