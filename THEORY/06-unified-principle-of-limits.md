@@ -1,7 +1,7 @@
 # Axiom 6: The Unified Principle of Limits
 
-&gt; **Incompleteness, uncomputability, quantum uncertainty, measurement limits, even the finite speed of light — these are not separate phenomena. They are different manifestations of a single "informational horizon" arising from the existence of the object.**  
-&gt; The boundaries of knowledge, not knowledge itself, become the primary source of information about the object's nature.
+&gt; **Incompleteness, uncomputability, quantum uncertainty, measurement limits, even the finite speed of light — these are not separate phenomena. They are different manifestations of a single informational horizon arising from the existence of the structure.**  
+&gt; The boundaries of knowledge, not knowledge itself, become the primary source of information about the structure's nature.
 
 ---
 
@@ -24,9 +24,9 @@ This axiom says: they are **the same limit seen from different angles**. Like th
 
 If these limits are separate, they are just... limits. Annoying boundaries on what we can know and do. Engineering constraints.
 
-If they are unified, they are **data**. They tell us something about the structure of the object. Not directly — we never see the object. But through their shared structure, we can infer properties of what generates them.
+If they are unified, they are **data**. They tell us something about the structure of the indescribable. Not directly — we never see the structure. But through their shared structure, we can infer properties of what generates them.
 
-This is like deducing the shape of a hidden object from the patterns of shadows it casts. One shadow tells you little. But many shadows, from many angles, constrained to be consistent — that tells you a great deal.
+This is like deducing the shape of a hidden structure from the patterns of shadows it casts. One shadow tells you little. But many shadows, from many angles, constrained to be consistent — that tells you a great deal.
 
 ### The shared structure
 
@@ -44,33 +44,41 @@ Common pattern: **a finite system cannot fully contain or transmit information a
 
 This is the Information Horizon (Axiom 1) applied across domains.
 
-### The object as generator of the horizon
+### The structure as generator of the horizon — revised
 
-If the object exists and has the properties described in Axioms 1-5, then any finite system interacting with it (or its projections) will encounter limits. These limits are not arbitrary. They are **structurally necessary** consequences of the object's existence.
+Earlier formulations said the object "generates" or "creates" the horizon. This is now revised.
 
-The object does not "cause" these limits in a mechanical sense. It **generates** them by being the thing that cannot be fully contained. Like a mountain generates valleys not by "causing" them, but by being the elevation that defines the low ground.
+The structure and the horizon are **dual** (Axiom 3). They are not cause and effect. The structure does not "generate" the horizon in a causal sense. Rather:
+
+&gt; The limits exist **because** the structure is indescribable, and the structure is indescribable **because** the limits exist. Neither is prior.
+
+This is not circularity. It is **duality**.
+
+Like electric and magnetic fields in electromagnetism: a changing electric field generates a magnetic field, and a changing magnetic field generates an electric field. Neither is the "cause" of the other. They are aspects of one electromagnetic field.
+
+Similarly, the structure and its horizon are aspects of one indescribable reality.
 
 ---
 
 ## The Unexpected Hypothesis
 
-&gt; **It is not the object that acts upon the world. Rather, any system automatically loses the ability to describe it completely.**
+&gt; **It is not the structure that acts upon the world. Rather, any system automatically loses the ability to describe it completely.**
 
-This is the crucial shift. We tend to think: if something affects reality, it must be a force, a field, an interaction. But the object does not "act" in this sense. It does not push or pull. It simply **is** — and its being creates a structural condition where any finite description necessarily fails.
+This is the crucial shift. We tend to think: if something affects reality, it must be a force, a field, an interaction. But the structure does not "act" in this sense. It does not push or pull. It simply **is** — and its being creates a structural condition where any finite description necessarily fails.
 
-This is analogous to how Gödel's incompleteness theorem does not "act" on mathematics. It is not a force. It is a **structural feature** that emerges from the axioms. Similarly, the object's existence may be a structural feature of reality that generates the Information Horizon as a necessary consequence.
+This is analogous to how Gödel's incompleteness theorem does not "act" on mathematics. It is not a force. It is a **structural feature** that emerges from the axioms. Similarly, the structure's existence may be a structural feature of reality that generates the Information Horizon as a necessary consequence.
 
 ### The blind spot is not a defect
 
-&gt; Every finite mind has a "blind spot," and this blind spot is not a random defect — it is the place where the object begins.
+&gt; Every finite mind has a "blind spot," and this blind spot is not a random defect — it is the place where the structure begins.
 
-This reframes epistemology entirely. Cognitive limits are not weaknesses to overcome. They are **signatures** of the object's presence. The "blind spot" is not empty — it is where the object is.
+This reframes epistemology entirely. Cognitive limits are not weaknesses to overcome. They are **signatures** of the structure's presence. The "blind spot" is not empty — it is where the structure is.
 
 ---
 
 ## Invariants Across All Possible Universes
 
-If the object truly "governs all," then it cannot be seen directly. But there may exist things that are **the same in all possible universes**.
+If the structure truly "governs all," then it cannot be seen directly. But there may exist things that are **the same in all possible universes**.
 
 Not physical constants — those could vary across universes in a multiverse. But **deeper mathematical invariants**:
 
@@ -78,7 +86,7 @@ Not physical constants — those could vary across universes in a multiverse. Bu
 - The structure of undecidability itself
 - The constraints on any possible information system
 
-These invariants would not "prove" the object. But they would be **consistent with** its existence — and difficult to explain without it.
+These invariants would not "prove" the structure. But they would be **consistent with** its existence — and difficult to explain without it.
 
 ---
 
@@ -97,13 +105,13 @@ $$\forall L_i \in \mathcal{L}: \quad L_i = P_{\theta_i}(U)$$
 
 Where $P_{\theta_i}$ is a projection of $U$ onto the domain of $L_i$ (consistent with Axiom 4).
 
-Furthermore, $U$ is generated by the existence of $O$:
+Furthermore, $U$ and the structure $O$ are dual:
 
-$$U = f(O)$$
+$$U \cong O$$
 
-Where $f$ is a structural mapping (not a causal one) from the object to the horizon.
+The unifying structure and the indescribable structure are **the same thing viewed from different sides**.
 
-**Research program**: Determine the form of $U$ and $f$.
+**Research program**: Determine the form of $U$ and the duality transformation.
 
 ---
 
@@ -131,5 +139,5 @@ Also see:
 
 ---
 
-&gt; *"Perhaps incompleteness, uncomputability, quantum uncertainty, and the finite speed of light are not separate phenomena, but different manifestations of one informational horizon. In such a picture, the boundaries of knowledge — not knowledge itself — become the primary source of information about the object's nature."*  
+&gt; *"Perhaps incompleteness, uncomputability, quantum uncertainty, and the finite speed of light are not separate phenomena, but different manifestations of one informational horizon. In such a picture, the boundaries of knowledge — not knowledge itself — become the primary source of information about the structure's nature."*  
 &gt; — lordekz

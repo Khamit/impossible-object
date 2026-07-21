@@ -1,77 +1,106 @@
-# Axiom 2: Information Is Heavier Than Matter
+# Axiom 2: Description Is Fundamental
 
-> **Information is a physical quantity. There exists a limit to how much information a local observer can contain. The object violates this limit.**  
-> Therefore, no brain — and no finite physical system — can hold it.
+&gt; **Not Shannon information, but Kolmogorov complexity (minimal description length) is the fundamental physical quantity. The structure has no finite minimal description.**  
+&gt; Therefore, no finite system can compress it into a complete representation.
 
 ---
 
 ## Author's Commentary (lordekz)
 
+This axiom replaces the earlier formulation ("Information Is Heavier Than Matter") with a more precise claim.
+
 We are trained to think: first matter, then information about matter. The stone exists; the description of the stone is secondary.
 
-But what if this order is reversed? What if information is primary, and what we call "matter" is just one way information manifests under certain constraints?
+But what if **description** is primary? Not "information" in the Shannon sense (which measures uncertainty), but **Kolmogorov complexity** — the length of the shortest program that produces a given output.
 
-This is not as radical as it sounds. Landauer's principle states that erasing one bit of information requires a minimum energy of $k_B T \ln 2$. Information has thermodynamic cost. The holographic principle suggests that the information content of a region of space is bounded by its surface area, not its volume. Bekenstein bound gives a maximum entropy for any system of given mass and radius.
+### Why Kolmogorov complexity?
 
-So information **is** physical. It has weight, in a sense.
+Consider two numbers:
+- $\pi = 3.14159...$ — contains infinite information (infinite digits), but its **description** is very short: "the ratio of a circle's circumference to its diameter"
+- A random 1000-digit number — contains the same amount of Shannon information as 1000 digits of $\pi$, but its **description** is approximately 1000 digits long (it is incompressible)
 
-### The local observer limit
+Shannon information treats these as equivalent. Kolmogorov complexity does not. It captures what we intuitively mean by "description" — not raw data, but **compressible structure**.
 
-The Bekenstein bound:
+### The object as incompressible
 
-$$S \leq \frac{2\pi R E}{\hbar c}$$
+The earlier formulation said: "The object contains more information than any finite system can hold."
 
-Where $S$ is entropy (information), $R$ is radius, $E$ is energy. This is a hard limit for any localized system.
+The stronger formulation: **The object has no finite minimal description.**
 
-Now, if the object contains — or **is** — information that exceeds this bound for any local observer, then by definition no local observer can contain a complete model of it. This is not a failure of intelligence. It is a **failure of containment**.
+This is not about quantity. It is about **compressibility**.
 
-### Why "heavier"
+Everything in existence can be compressed:
+- Galaxies → laws of gravity
+- Particles → quantum field equations
+- Biological evolution → genetic algorithms
+- Consciousness → (still unknown, but presumably compressible in principle)
 
-I use the word "heavier" deliberately. In everyday language, we say an idea is "heavy" when it overwhelms us. Here I mean it literally in an information-theoretic sense: the object's information density exceeds the carrying capacity of any finite physical substrate.
+But there exists one structure that is **algorithmically incompressible**. Not because it is random. But because any description becomes part of the structure itself.
 
-A black hole is the densest thing we know in terms of mass per volume. But in terms of **information per bounded region**, the object is denser still — because it is not bounded by space at all. It does not occupy volume. Its "size" in information space is not a spatial concept.
+This is very similar to a **fixed point**:
+
+$$f(x) = x$$
+
+Where the description function $f$ applied to the structure yields the structure itself. The fixed point is not "described" — it is **self-describing in a way that consumes the describer**.
+
+### Why "heavier" still applies
+
+I retain the metaphor of "heaviness" but reinterpret it: a description that cannot be compressed is "heavy" not because it contains many bits, but because **it cannot be lifted** — it cannot be moved, contained, or transferred without loss. Any attempt to compress it requires a compressor that itself becomes part of the uncompressed whole.
 
 ### The inversion
 
 Classical view: Matter exists → Information describes matter  
-This axiom: Information is fundamental → Matter is a projection of information under constraints → The object is information that exceeds all local constraints
-
-This is why I say information is "heavier" than matter. Matter can be moved, contained, divided. Information of this magnitude cannot. It is too dense for any vessel.
+This axiom: Description is fundamental → Matter is a projection of describable structure → The structure is that which has no finite description
 
 ---
 
 ## Formal Sketch
 
-Let $I_{\text{max}}(S)$ be the maximum information capacity of system $S$, given by the Bekenstein bound or similar constraint.
+Let $K(x)$ be the Kolmogorov complexity of $x$ — the length of the shortest program that outputs $x$ on a universal Turing machine.
 
-Let $I(O)$ be the information content of the object.
+For any finite object $x$:
 
-**Axiom 2 states:**
+$$K(x) \leq |x| + C$$
 
-$$\forall S \text{ (finite physical system)}: \quad I(O) > I_{\text{max}}(S)$$
+Where $|x|$ is the length of $x$ and $C$ is a constant depending on the choice of universal machine.
 
-Or more precisely, the object does not have a finite information content in the sense that any finite approximation $M_S(O)$ satisfies:
+**Axiom 2 states:** For the structure $O$:
 
-$$\lim_{\text{depth} \to \infty} I(M_S(O)) = \infty$$
+$$\nexists p: \quad |p| &lt; \infty, \quad U(p) = O$$
 
-Where "depth" refers to the level of detail in the model. The object's information is not infinite in the sense of a countable set — it is **unbounded relative to any finite container**.
+Where $U$ is a universal Turing machine and $p$ is a program. That is, **there is no finite program that outputs the complete structure**.
+
+More precisely, for any finite approximation $M_S^{(n)}(O)$:
+
+$$\lim_{n \to \infty} K(M_S^{(n)}(O)) = \infty$$
+
+The structure's minimal description length diverges. It is not "infinite" in the sense of $\aleph_0$ — it is **incommensurable** with finite measures.
+
+### Relationship to Axiom 1
+
+Axiom 1: A system cannot fully model the structure without becoming part of it.  
+Axiom 2: The structure has no finite minimal description.
+
+These are equivalent statements from different angles:
+- Axiom 1: from the perspective of the modeling system
+- Axiom 2: from the perspective of the structure itself
 
 ---
 
 ## Connections
 
-- See [`CONNECTIONS/quantum-uncertainty.md`](../CONNECTIONS/quantum-uncertainty.md) — quantum uncertainty may be a manifestation of the observer's information limit
-- See [`CONNECTIONS/wheeler-it-from-bit.md`](../CONNECTIONS/wheeler-it-from-bit.md) — Wheeler's "it from bit" inverts matter and information, but does not push to the limit proposed here
+- See [`CONNECTIONS/computational-limits.md`](../CONNECTIONS/computational-limits.md) — computational complexity and incompressibility
+- See [`CONNECTIONS/wheeler-it-from-bit.md`](../CONNECTIONS/wheeler-it-from-bit.md) — Wheeler's "it from bit" and why Kolmogorov complexity goes further
 
 ---
 
 ## Open Questions
 
-1. Is there a rigorous way to define $I(O)$ independently of any model?
-2. Does the holographic principle suggest that our universe itself is a "projection" of something denser?
-3. Can quantum error correction (as in AdS/CFT) be interpreted as a mechanism for maintaining information integrity across the horizon?
+1. Can $K(O)$ be defined rigorously without presupposing a specific universal machine?
+2. Does the incompressibility of the structure imply its randomness — or is there a third category between "ordered" and "random"?
+3. Can quantum error correction (as in AdS/CFT) be interpreted as a mechanism for maintaining descriptive integrity across the horizon?
 
 ---
 
-> *"We think matter is solid because we can kick it. But information is what remains when you remove the kicking. And some information is too heavy to kick."*  
-> — lordekz
+&gt; *"Everything can be compressed — to laws, to equations, to algorithms. But there exists one structure that is algorithmically incompressible. Not because it is random. Because any description becomes part of it."*  
+&gt; — lordekz
