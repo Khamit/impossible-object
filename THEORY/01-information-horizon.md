@@ -1,6 +1,5 @@
 ## THEORY/01-information-horizon.md
 
-```markdown
 # Axiom 1: The Information Horizon
 
 > **Complete knowledge of the object is equivalent to possession of the object.**  
