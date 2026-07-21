@@ -1,8 +1,8 @@
 # Impossible Object
 
-> **A theory of structural unexplainability**  
-> Author: **lordekz** ([@Khamit](https://github.com/Khamit))  
-> License: MIT (see bottom)
+&gt; **A theory of structural unexplainability**  
+&gt; Author: **lordekz** ([@Khamit](https://github.com/Khamit))  
+&gt; License: MIT (see bottom)
 
 ---
 
@@ -16,7 +16,7 @@ The theory is built on **six axioms** that describe the consequences of such an 
 
 ## Core Claim
 
-> The object never manifests positively ("here it is"), but always negatively: through what is **principally inaccessible** to any finite description.
+&gt; The object never manifests positively ("here it is"), but always negatively: through what is **principally inaccessible** to any finite description.
 
 This is not mysticism. It is a structural claim about the relationship between finite information systems and whatever lies beyond their closure.
 
@@ -35,9 +35,24 @@ This is not mysticism. It is a structural claim about the relationship between f
 
 ---
 
+## Research Program
+
+&gt; **Do not look for the object. Look for what is impossible.**
+
+The theory's central methodological directive: the object never manifests positively, but always negatively — through what is principally inaccessible to any finite description. The limits of mathematics, logic, and computation are not defects of these disciplines — they are the **edges of the object**.
+
+See [`THEORY/07-research-program.md`](THEORY/07-research-program.md) for the full research program, including:
+- Why "impossibilities" are the right target
+- Examples: unprovable constructions, independent statements, undecidable problems
+- The unexpected hypothesis: it is not the object that acts on the world, but systems that lose the ability to describe it
+- The search for invariants across all possible universes
+
+---
+
 ## Quick Start
 
 - **New here?** Start with [`THEORY/01-information-horizon.md`](THEORY/01-information-horizon.md)
+- **Want the research program?** See [`THEORY/07-research-program.md`](THEORY/07-research-program.md)
 - **Want the math?** See [`FORMALIZATION/mathematical-sketch.md`](FORMALIZATION/mathematical-sketch.md)
 - **Curious about connections?** Browse [`CONNECTIONS/`](CONNECTIONS/)
 - **Want to contribute?** Read [`CONTRIBUTING.md`](CONTRIBUTING.md)
@@ -45,6 +60,7 @@ This is not mysticism. It is a structural claim about the relationship between f
 ---
 
 ## Repository Structure
+
 ```bash
 impossible-object/
 ├── README.md                          ← You are here

@@ -52,6 +52,36 @@ The object does not "cause" these limits in a mechanical sense. It **generates**
 
 ---
 
+## The Unexpected Hypothesis
+
+&gt; **It is not the object that acts upon the world. Rather, any system automatically loses the ability to describe it completely.**
+
+This is the crucial shift. We tend to think: if something affects reality, it must be a force, a field, an interaction. But the object does not "act" in this sense. It does not push or pull. It simply **is** — and its being creates a structural condition where any finite description necessarily fails.
+
+This is analogous to how Gödel's incompleteness theorem does not "act" on mathematics. It is not a force. It is a **structural feature** that emerges from the axioms. Similarly, the object's existence may be a structural feature of reality that generates the Information Horizon as a necessary consequence.
+
+### The blind spot is not a defect
+
+&gt; Every finite mind has a "blind spot," and this blind spot is not a random defect — it is the place where the object begins.
+
+This reframes epistemology entirely. Cognitive limits are not weaknesses to overcome. They are **signatures** of the object's presence. The "blind spot" is not empty — it is where the object is.
+
+---
+
+## Invariants Across All Possible Universes
+
+If the object truly "governs all," then it cannot be seen directly. But there may exist things that are **the same in all possible universes**.
+
+Not physical constants — those could vary across universes in a multiverse. But **deeper mathematical invariants**:
+
+- Things that cannot be changed even if you change space, time, matter, physical laws, dimensionality, or initial conditions
+- The structure of undecidability itself
+- The constraints on any possible information system
+
+These invariants would not "prove" the object. But they would be **consistent with** its existence — and difficult to explain without it.
+
+---
+
 ## Formal Sketch
 
 Let $\mathcal{L} = \{L_1, L_2, L_3, L_4, L_5\}$ be the set of fundamental limits:
@@ -86,6 +116,9 @@ All CONNECTIONS/ files relate to this axiom:
 - [`CONNECTIONS/apophatic-tradition.md`](../CONNECTIONS/apophatic-tradition.md)
 - [`CONNECTIONS/wheeler-it-from-bit.md`](../CONNECTIONS/wheeler-it-from-bit.md)
 
+Also see:
+- [`THEORY/07-research-program.md`](07-research-program.md) — the methodological consequences of this axiom
+
 ---
 
 ## Open Questions
@@ -94,6 +127,7 @@ All CONNECTIONS/ files relate to this axiom:
 2. Are there other fundamental limits that fit this pattern? (Thermodynamic arrow of time? Consciousness?)
 3. Does the unification predict new limits in domains not yet explored?
 4. Can the structure of $U$ be used to derive any of the $L_i$ from first principles?
+5. What are the "invariants across all possible universes" — and can any be identified?
 
 ---
 
