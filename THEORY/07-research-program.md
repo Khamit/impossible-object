@@ -3,7 +3,7 @@
 > **Do not look for the object. Look for what is impossible.**  
 > The principle never manifests positively ("here it is"), but always negatively: through what is principally inaccessible to any finite description.
 
-![Research Diagram](docs/diagram.svg)
+<img src="docs/diagram.svg" width="1000">
 ---
 
 ## Author's Commentary (lordekz)
